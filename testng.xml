@@ -4,9 +4,9 @@
     <test verbose="2" preserve-order="true" name="takvim.firat.edu.tr">
         <classes>
             <class name="MainPage">
-                <methods>
-                    <exclude name="checkLinks"></exclude>
-                </methods>
+<!--                <methods>-->
+<!--                    <exclude name="checkLinks"></exclude>-->
+<!--                </methods>-->
             </class>
 
         </classes>
